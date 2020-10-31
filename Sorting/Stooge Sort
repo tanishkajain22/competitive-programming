@@ -1,4 +1,4 @@
-# Python program to implement stooge sort
+# Python program for stooge sort
  
 def stoogesort(arr, l, h):
     if l >= h:
